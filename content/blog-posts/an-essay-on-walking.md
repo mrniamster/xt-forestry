@@ -1,5 +1,5 @@
 ---
-author: Henry David Thoreau
+author: mrniamster
 title: An Essay on Walking
 slug: an-essay-on-walking
 date: 2019-07-29T07:00:00Z
